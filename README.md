@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0000&text=Roxy%20cloner%20v2&fontSize=40&height=100&descAlignY=50&descAlign=50" alt="Roxy cloner v2" />
-</p>
+## SERVER CLONING BOT
+<img src="https://i.postimg.cc/hGQBGjwF/New-Project-14-6-B87-B80.png" >
